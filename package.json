@@ -15,13 +15,13 @@
     {
       "name": "index",
       "title": "Search",
-      "subtitle": "GIF list",
+      "subtitle": "Giphy",
       "description": "Search GIF file in Giphy",
       "mode": "view"
     },
     {
       "name": "clear-history",
-      "title": "Clear history",
+      "title": "Clear History",
       "subtitle": "Gipyh",
       "description": "Delete all items in your history",
       "mode": "no-view"
