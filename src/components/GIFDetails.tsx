@@ -25,7 +25,7 @@ function GIFDetails({ gif, onView }: GIFDetailsProps) {
       metadata={
         <Detail.Metadata>
           <Detail.Metadata.Label title="Title" text={normalizeTitle(gif.title)} />
-          <Detail.Metadata.Label title="Weight" text={`${gif.images.original.width} px`} />
+          <Detail.Metadata.Label title="Width" text={`${gif.images.original.width} px`} />
           <Detail.Metadata.Label title="Height" text={`${gif.images.original.height} px`} />
           <Detail.Metadata.Label title="Size" text={fileSize(Number(gif.images.original.size))} />
           <Detail.Metadata.Label title="Created" text={moment(gif.import_datetime, "DD-MM-YYYY").fromNow()} />
