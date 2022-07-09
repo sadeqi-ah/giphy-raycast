@@ -16,21 +16,21 @@
       "name": "index",
       "title": "Search",
       "subtitle": "Giphy",
-      "description": "Search GIF file in Giphy",
+      "description": "Search GIF file on Giphy",
       "mode": "view"
     },
     {
       "name": "clear-history",
       "title": "Clear History",
       "subtitle": "Gipyh",
-      "description": "Delete all items in your history",
+      "description": "Delete all the items from your history",
       "mode": "no-view"
     },
     {
       "name": "clear-favorites",
       "title": "Clear Favorites",
       "subtitle": "Gipyh",
-      "description": "Delete all items in your Favorites",
+      "description": "Delete all the items from your favorites",
       "mode": "no-view"
     }
   ],
