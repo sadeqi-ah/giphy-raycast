@@ -1,0 +1,3 @@
+# Giphy
+
+Giphy in Raycast
